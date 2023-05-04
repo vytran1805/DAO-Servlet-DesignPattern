@@ -56,7 +56,7 @@ public class MyServlet extends HttpServlet {
             out.println("<head>");
             out.println("<title>Servlet NewServlet</title>");
             out.println("</head>");
-            out.println("<body>");
+            out.println("<body style='background-color: powderblue;'>");
             out.println("<h1>Servlet Sample Form Servlet</h1>");
             
             
